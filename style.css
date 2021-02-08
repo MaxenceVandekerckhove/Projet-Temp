@@ -1,0 +1,26 @@
+body
+{
+background-color: white;
+text-align: center;
+margin-top: 3%;
+margin-left: 2%;
+margin-right: 2%;
+}
+
+.graphique
+{
+	margin : auto;
+	margin-top: 2%;
+	width: 75%;
+}
+
+.actuelle
+{
+	font-family: sans-serif;
+}
+
+h2
+{
+	text-decoration: underline;
+	color: #5F6A6A;
+}
